@@ -19,7 +19,11 @@ Data was loaded and cleaned using SQL and Excel. Visualization was performed usi
 - How many units of each product were sold and which were most frequently purchased?
 
 ## Screenshots
-![image](https://github.com/aleksandrakulyk/Shopping-Trends-PowerBi-Project/assets/143332018/428574ea-7c72-402b-b6b4-7642eaaf3ff0)
+
+![Zrzut ekranu 2024-07-04 170228](https://github.com/aleksandrakulyk/Shopping-Trends-PowerBi-Project/assets/143332018/6dffd7f5-0b1f-48b6-bba4-89bb0f373a7d)
+![Zrzut ekranu 2024-07-04 165942](https://github.com/aleksandrakulyk/Shopping-Trends-PowerBi-Project/assets/143332018/c6338a08-9db3-4dc0-bfb9-ddc2e2d5c8a1)
+![Zrzut ekranu 2024-07-04 170055](https://github.com/aleksandrakulyk/Shopping-Trends-PowerBi-Project/assets/143332018/94578070-3fd9-4410-b83d-62d2053b3ae4)
+
 
 
 ## Conclusion
