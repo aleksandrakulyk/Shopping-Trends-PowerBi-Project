@@ -1,6 +1,12 @@
 # Shopping Trends USA
 This repository presents a visualization of data in the Power Bi program regarding Shopping Trends in USA.
 
+## Technologies
+
+PowerBi
+Excel
+SQL
+
 ## Dataset
 
 Data Base link: https://www.kaggle.com/datasets/iamsouravbanerjee/customer-shopping-trends-dataset 
